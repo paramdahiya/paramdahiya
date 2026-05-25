@@ -23,7 +23,7 @@ I build things that ship — from microservices backends to AI-powered web tools
 
 I'm most interested in the intersection of **full-stack engineering and AI** — building systems where LLMs and ML models do real work inside production applications, not just demos.
 
-- 🔭 &nbsp;Currently building **AnonMsg** — an anonymous messaging platform with an AI content moderation pipeline (Next.js, TypeScript, OpenAI)
+- 🔭 &nbsp;Currently building **Whisperly** — an anonymous messaging platform with an AI content moderation pipeline (Next.js, TypeScript, OpenAI)
 - 🌱 &nbsp;Learning **TypeScript, Next.js, and AWS** in my current 40-day sprint
 - 💬 &nbsp;Ask me about microservices architecture, AI API integration, or E2E testing with Playwright
 - 📍 &nbsp;Based in Sydney — open to hybrid and remote roles across Australia
