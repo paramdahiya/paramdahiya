@@ -19,7 +19,7 @@
 
 ## About
 
-I build things that ship — from microservices backends to AI-powered web tools. Currently finishing my Bachelor of Advanced Computing at USYD and looking for a **graduate or junior SWE role** where I can contribute to product engineering from day one.
+I build things that ship — from microservices backends to AI-powered web tools. Looking for a **SWE role** where I can contribute to product engineering from day one.
 
 I'm most interested in the intersection of **full-stack engineering and AI** — building systems where LLMs and ML models do real work inside production applications, not just demos.
 
@@ -27,6 +27,15 @@ I'm most interested in the intersection of **full-stack engineering and AI** —
 - 🌱 &nbsp;Learning **TypeScript, Next.js, and AWS** in my current 40-day sprint
 - 💬 &nbsp;Ask me about microservices architecture, AI API integration, or E2E testing with Playwright
 - 📍 &nbsp;Based in Sydney — open to hybrid and remote roles across Australia
+
+## Education
+
+University of Sydney
+Bachelor of Advanced Computing
+Major: Computer Science (Distinction Average)
+
+Relevant Coursework: Cloud Computing, Enterprise Software Architecture, Web Application Development,
+Operating Systems Internals, Algorithm Design, Data Structures & Algorithms, Machine Learning
 
 ---
 
