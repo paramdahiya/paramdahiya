@@ -31,7 +31,9 @@ I'm most interested in the intersection of **full-stack engineering and AI** —
 ## Education
 
 University of Sydney
+
 Bachelor of Advanced Computing
+
 Major: Computer Science (Distinction Average)
 
 Relevant Coursework: Cloud Computing, Enterprise Software Architecture, Web Application Development,
