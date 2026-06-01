@@ -28,19 +28,6 @@ I'm most interested in the intersection of **full-stack engineering and AI** —
 - 💬 &nbsp;Ask me about microservices architecture, AI API integration, or E2E testing with Playwright
 - 📍 &nbsp;Based in Sydney — open to hybrid and remote roles across Australia
 
-## Education
-
-University of Sydney
-
-Bachelor of Advanced Computing
-
-Major: Computer Science (Distinction Average)
-
-Relevant Coursework: Cloud Computing, Enterprise Software Architecture, Web Application Development,
-Operating Systems Internals, Algorithm Design, Data Structures & Algorithms, Machine Learning
-
----
-
 ## Tech Stack
 
 **Languages**
